@@ -1,0 +1,10 @@
+/* styles.css ou outro arquivo CSS que você está usando */
+.no-arrows::-webkit-inner-spin-button,
+.no-arrows::-webkit-outer-spin-button {
+  margin: 0;
+  -webkit-appearance: none;
+}
+
+.no-arrows {
+  -moz-appearance: textfield;
+}
